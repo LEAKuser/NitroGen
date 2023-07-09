@@ -1,4 +1,4 @@
-# NitroGen
+# NitroGenerator
 Nitro/boost generator and checker
  
 COMMANDS CMD THE FOLDER
